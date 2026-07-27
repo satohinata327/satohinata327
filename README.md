@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**satohinata327/satohinata327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hinata Sato, a graduate student interested in
 
-Here are some ideas to get you started:
+- 🤖 Machine Learning
+- 💻 Software Engineering
+- 🖥️ Computer Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research
+
+- Financial Time Series Modeling, Generation & Evaluation
+- Dynamic Approximate Computing for AI Inference
+- LLM Routing Systems
+
+## Competitive Programming
+### AtCoder
+
+- Rating: Green
+
+## Links
+
+- GitHub: https://github.com/satohinata327
+- Portfolio:
