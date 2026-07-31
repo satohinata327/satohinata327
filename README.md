@@ -12,6 +12,9 @@ I'm Hinata Sato, a graduate student interested in
 - Dynamic Approximate Computing for AI Inference
 - LLM Routing Systems
 
+## Academic Activities
+- Presented a paper at HotSPA 2026 (Hot Spring Annual Meeting 2026), the IEICE-CPSY/DC/RECONF and IPSJ-ARC Joint Workshop, June 2026.
+
 ## Competitive Programming
 ### AtCoder
 
