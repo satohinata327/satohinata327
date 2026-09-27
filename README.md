@@ -18,7 +18,7 @@ I'm Hinata Sato, a graduate student interested in
 ## Competitive Programming
 ### AtCoder
 
-- Rating: 1061
+- Rating: 1107
 
 ## Links
 
